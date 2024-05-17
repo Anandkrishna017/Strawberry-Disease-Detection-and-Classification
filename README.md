@@ -16,3 +16,7 @@ The web application boasts a user-friendly interface designed to enhance ease of
 ### Mobile Application
 ![alt Mobile Application Home Page](https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Mobile_Home.jpeg)
 ![alt Mobile Application Main Page](https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Mobile_DiseaseDetected.jpeg)
+
+### Web Application
+![alt Web Application Home Page](https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Web_Home.png)
+![alt Web Application Main Page](https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Web_DiseaseDetected.png)
