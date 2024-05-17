@@ -5,6 +5,15 @@ Image Processing and Deep learning
 Strawberries are grown for their economic value in over 70 nations, and their cultivation is an international industry. Particularly during the chilly winter months, greenhouse cultivation has become an essential tactic to maximise growth conditions and prolong supply periods. But there are drawbacks to the regulated environment of greenhouses as well. For example, the high humidity and temperature conditions make strawberry crops more susceptible to disease. It becomes essential to identify diseases quickly in order to reduce risks and preserve ideal growing circumstances. Diseases pose a threat to strawberry farming's economic viability despite advances in technology, resulting in lower yields, deteriorated fruit quality, and higher production costs.
 
 The goal of this project is to discover diseases in strawberries by using image segmentation algorithms to analyse the fruit, blossoms, and leaves. This strategy uses image segmentation algorithms to provide a quick and precise way to identify diseases, allowing for prompt management and intervention. By lowering production costs, preserving fruit quality, and increasing crop yield, the deployment of such technologies can support the long-term viability of greenhouse strawberry farming.
+### Diseases
+
+- Angular Leafspot
+- Anthracnose Fruit Rot
+- Blossom Blight
+- Gray Mold
+- Leaf Spot
+- Powdery Mildew Fruit
+- Powdery Mildew Leaf
 
 ## Mobile Application - Android
 Transforming the approach to strawberry crop management, our mobile application presents growers with a streamlined interface designed for effortless navigation. Enabling users to seamlessly upload or capture images of their strawberry plants, the application simplifies the process of monitoring crop health. By simply tapping the disease detection feature, our advanced model, meticulously trained in advance, promptly identifies any potential issues affecting the plants. Beyond providing accurate diagnoses, the application also offers customized remedies for the seven most prevalent strawberry diseases, empowering growers with proactive solutions. With its user-friendly design and innovative features, our application redefines disease detection and agricultural management for modern growers.
