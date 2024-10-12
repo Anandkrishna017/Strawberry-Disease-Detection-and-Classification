@@ -1,0 +1,9 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<card_background xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!---->
+<!--</card_background>-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="12dp" />
+    <stroke android:width="2dp" android:color="#000" />
+</shape>

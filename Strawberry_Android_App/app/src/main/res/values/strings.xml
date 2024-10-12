@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StrawberryCare</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strawberry_image_description">Strawberry</string>
+    <string name="Home_description">StrawberryCare App utilizes image recognition technology to
+        detect diseases in strawberry plants, providing accurate diagnoses through analyzing leaf
+        patterns. By leveraging advanced algorithms, it offers farmers timely insights
+        to prevent crop loss and optimize yields, enhancing strawberry cultivation practices.</string>
+
+
+
+
+    <string name="rem1"></string>
+
+</resources>

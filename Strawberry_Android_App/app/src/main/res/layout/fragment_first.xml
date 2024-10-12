@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".FirstFragment">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="StrawberryCare"
+    android:textColor="@color/red"
+    android:textSize="30dp"/>
+
+
+
+            <TextView
+                android:id="@+id/textViewStrawberryDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Home_description"
+                android:textSize="16sp"
+                android:paddingTop="16dp"
+                android:layout_marginBottom="20dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Some Diseases are:"
+                android:layout_marginBottom="20dp"/>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearDiseaseCards"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Placeholder for ImageView and TextViews will be added dynamically -->
+
+    </LinearLayout>
+
+
+</LinearLayout>
