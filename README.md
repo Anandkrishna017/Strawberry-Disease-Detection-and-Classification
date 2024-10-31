@@ -26,9 +26,7 @@ The web application boasts a user-friendly interface designed to enhance ease of
 
 ## Sample Output
 ### Mobile Application
-![alt Mobile Application Home Page](https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Mobile_Home.jpeg)
-![alt Mobile Application Main Page](https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Mobile_DiseaseDetected.jpeg)
+<img src="https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Mobile_Home.jpeg" alt="Mobile Application Home Page" width="200" height="400"> <img src="https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Mobile_DiseaseDetected.jpeg" alt="Mobile Application Main Page" width="200" height="400">
 
 ### Web Application
-![alt Web Application Home Page](https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Web_Home.png)
-![alt Web Application Main Page](https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Web_DiseaseDetected.png)
+<img src="https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Web_Home.png" alt="Web Application Home Page" width="400" height="250"> <img src="https://github.com/Anandkrishna017/Strawberry-Disease-Detection-and-Classification/blob/main/images/Web_DiseaseDetected.png" alt="Web Application Main Page" width="400" height="250">
